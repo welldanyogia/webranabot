@@ -1,0 +1,10 @@
+2023/06/14-02:48:45.392 f78 Creating DB C:\Users\farid\OneDrive\Desktop\webranabot\webranabot\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/06/14-02:48:45.402 f78 Reusing MANIFEST C:\Users\farid\OneDrive\Desktop\webranabot\webranabot\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/14-02:48:45.447 3894 Level-0 table #5: started
+2023/06/14-02:48:45.456 3894 Level-0 table #5: 7376 bytes OK
+2023/06/14-02:48:45.462 3894 Delete type=0 #3
+2023/06/14-02:48:45.463 3894 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/06/14-02:48:46.046 b3c Level-0 table #7: started
+2023/06/14-02:48:46.049 b3c Level-0 table #7: 14371 bytes OK
+2023/06/14-02:48:46.057 b3c Delete type=0 #4
+2023/06/14-02:48:46.057 b3c Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
