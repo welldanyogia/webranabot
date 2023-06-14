@@ -1,9 +1,9 @@
-const axios = require('./lib/axios.js');
-const md5 = require("./lib/md5.js");
-const venom = require("./lib/venom-bot.js");
-// const axios = require("axios");
-// const md5 = require("md5");
-// const venom = require("venom-bot");
+// const axios = require('./lib/axios.js');
+// const md5 = require("./lib/md5.js");
+// const venom = require("./lib/venom-bot.js");
+const axios = require("axios");
+const md5 = require("md5");
+const venom = require("venom-bot");
 // const fetch = require('node-fetch');
 
 // Konfigurasi API Digiflazz
