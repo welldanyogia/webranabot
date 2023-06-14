@@ -1,4 +1,5 @@
-const axios = require("axios");
+const axios = require('./lib/axios.js');
+// const axios = require("axios");
 const md5 = require("md5");
 const venom = require("venom-bot");
 // const fetch = require('node-fetch');
